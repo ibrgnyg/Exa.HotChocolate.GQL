@@ -1,0 +1,12 @@
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Configure\Exa.Configure.Models\bin\Debug\net7.0\Exa.Configure.Models.deps.json
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Configure\Exa.Configure.Models\bin\Debug\net7.0\Exa.Configure.Models.dll
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Configure\Exa.Configure.Models\bin\Debug\net7.0\Exa.Configure.Models.pdb
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Configure\Exa.Configure.Models\obj\Debug\net7.0\Exa.Configure.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Configure\Exa.Configure.Models\obj\Debug\net7.0\Exa.Configure.Models.AssemblyInfoInputs.cache
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Configure\Exa.Configure.Models\obj\Debug\net7.0\Exa.Configure.Models.AssemblyInfo.cs
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Configure\Exa.Configure.Models\obj\Debug\net7.0\Exa.Configure.Models.csproj.CoreCompileInputs.cache
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Configure\Exa.Configure.Models\obj\Debug\net7.0\Exa.Configure.Models.dll
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Configure\Exa.Configure.Models\obj\Debug\net7.0\refint\Exa.Configure.Models.dll
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Configure\Exa.Configure.Models\obj\Debug\net7.0\Exa.Configure.Models.pdb
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Configure\Exa.Configure.Models\obj\Debug\net7.0\ref\Exa.Configure.Models.dll
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Configure\Exa.Configure.Models\obj\Debug\net7.0\Exa.Configure.Models.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Api\Exa.HotChocolate.GQL.Api\Exa.HotChocolate.GQL.Api.csproj" />
+    <ProjectReference Include="..\..\Bussnies.Services\Exa.Bussnies.Services\Exa.Bussnies.Services.csproj" />
+    <ProjectReference Include="..\..\Core\Exa.Core\Exa.Core.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Microsoft.Extensions.Logging.Abstractions/2.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Exa.Configure.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "2.2.0"
+        },
+        "compile": {
+          "bin/placeholder/Exa.Configure.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exa.Configure.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.Logging.Abstractions/2.2.0": {
+      "sha512": "B2WqEox8o+4KUOpL7rZPyh6qYjik8tHi2tN8Z9jZkHzED8ElYgZa/h6K+xliB435SqUcWT290Fr2aa8BtZjn8A==",
+      "type": "package",
+      "path": "microsoft.extensions.logging.abstractions/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml",
+        "microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+        "microsoft.extensions.logging.abstractions.nuspec"
+      ]
+    },
+    "Exa.Configure.Models/1.0.0": {
+      "type": "project",
+      "path": "../../Configure/Exa.Configure.Models/Exa.Configure.Models.csproj",
+      "msbuildProject": "../../Configure/Exa.Configure.Models/Exa.Configure.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Exa.Configure.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rasko\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rasko\\source\\repos\\wb_projeler\\Exa.HotChocolate.GQL\\src\\Domain\\Exa.Domain\\Exa.Domain.csproj",
+      "projectName": "Exa.Domain",
+      "projectPath": "C:\\Users\\rasko\\source\\repos\\wb_projeler\\Exa.HotChocolate.GQL\\src\\Domain\\Exa.Domain\\Exa.Domain.csproj",
+      "packagesPath": "C:\\Users\\rasko\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rasko\\source\\repos\\wb_projeler\\Exa.HotChocolate.GQL\\src\\Domain\\Exa.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rasko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\rasko\\source\\repos\\wb_projeler\\Exa.HotChocolate.GQL\\src\\Configure\\Exa.Configure.Models\\Exa.Configure.Models.csproj": {
+              "projectPath": "C:\\Users\\rasko\\source\\repos\\wb_projeler\\Exa.HotChocolate.GQL\\src\\Configure\\Exa.Configure.Models\\Exa.Configure.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

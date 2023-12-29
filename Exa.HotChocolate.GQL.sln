@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{CE845BEC-DC0D-4A8C-89E7-AFC3E20F823E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api Presentation", "Api Presentation", "{ED871218-7981-4803-9478-F3AFBF407405}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{DD16DB7E-BE10-4451-AF23-BF1316CDEFAF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bussnies.Services", "Bussnies.Services", "{E12A55BB-52C6-42AB-AEF0-BF26F12BD5FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configure", "Configure", "{0A5F459A-47F1-4AFC-B3CD-05BDF4C74438}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{E75CA0A6-A095-4538-A39A-5BBA8752AAA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exa.HotChocolate.GQL.Api", "src\Api\Exa.HotChocolate.GQL.Api\Exa.HotChocolate.GQL.Api.csproj", "{18717839-9070-451E-B407-35559FAC4358}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exa.Bussnies.Services", "src\Bussnies.Services\Exa.Bussnies.Services\Exa.Bussnies.Services.csproj", "{8173C4E8-A5B3-4351-BF51-FCEF85ED533D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exa.Configure.Models", "src\Configure\Exa.Configure.Models\Exa.Configure.Models.csproj", "{A7EDE6A5-805A-46A0-9CE6-1D30F1D5065A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exa.Core", "src\Core\Exa.Core\Exa.Core.csproj", "{4CE38F17-E4A5-4BD4-8545-0D4AE5F80573}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exa.Domain", "src\Domain\Exa.Domain\Exa.Domain.csproj", "{832CD4C0-1F5A-4350-AD48-1005B3DD7B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exa.HotChocolate.GQL.Application", "src\Api Presentation\Exa.HotChocolate.GQL.Application\Exa.HotChocolate.GQL.Application.csproj", "{8A5E10E3-19E7-499A-A088-9E63DB25346E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18717839-9070-451E-B407-35559FAC4358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18717839-9070-451E-B407-35559FAC4358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18717839-9070-451E-B407-35559FAC4358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18717839-9070-451E-B407-35559FAC4358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8173C4E8-A5B3-4351-BF51-FCEF85ED533D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8173C4E8-A5B3-4351-BF51-FCEF85ED533D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8173C4E8-A5B3-4351-BF51-FCEF85ED533D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8173C4E8-A5B3-4351-BF51-FCEF85ED533D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7EDE6A5-805A-46A0-9CE6-1D30F1D5065A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EDE6A5-805A-46A0-9CE6-1D30F1D5065A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EDE6A5-805A-46A0-9CE6-1D30F1D5065A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EDE6A5-805A-46A0-9CE6-1D30F1D5065A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE38F17-E4A5-4BD4-8545-0D4AE5F80573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE38F17-E4A5-4BD4-8545-0D4AE5F80573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE38F17-E4A5-4BD4-8545-0D4AE5F80573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE38F17-E4A5-4BD4-8545-0D4AE5F80573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832CD4C0-1F5A-4350-AD48-1005B3DD7B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832CD4C0-1F5A-4350-AD48-1005B3DD7B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832CD4C0-1F5A-4350-AD48-1005B3DD7B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832CD4C0-1F5A-4350-AD48-1005B3DD7B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5E10E3-19E7-499A-A088-9E63DB25346E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5E10E3-19E7-499A-A088-9E63DB25346E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5E10E3-19E7-499A-A088-9E63DB25346E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5E10E3-19E7-499A-A088-9E63DB25346E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{18717839-9070-451E-B407-35559FAC4358} = {CE845BEC-DC0D-4A8C-89E7-AFC3E20F823E}
+		{8173C4E8-A5B3-4351-BF51-FCEF85ED533D} = {E12A55BB-52C6-42AB-AEF0-BF26F12BD5FC}
+		{A7EDE6A5-805A-46A0-9CE6-1D30F1D5065A} = {0A5F459A-47F1-4AFC-B3CD-05BDF4C74438}
+		{4CE38F17-E4A5-4BD4-8545-0D4AE5F80573} = {DD16DB7E-BE10-4451-AF23-BF1316CDEFAF}
+		{832CD4C0-1F5A-4350-AD48-1005B3DD7B2F} = {E75CA0A6-A095-4538-A39A-5BBA8752AAA7}
+		{8A5E10E3-19E7-499A-A088-9E63DB25346E} = {ED871218-7981-4803-9478-F3AFBF407405}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E94C4586-E655-4F5B-9223-526920FD1544}
+	EndGlobalSection
+EndGlobal

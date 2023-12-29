@@ -1,0 +1,15 @@
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Domain\Exa.Domain\bin\Debug\net7.0\Exa.Domain.deps.json
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Domain\Exa.Domain\bin\Debug\net7.0\Exa.Domain.dll
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Domain\Exa.Domain\bin\Debug\net7.0\Exa.Domain.pdb
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Domain\Exa.Domain\bin\Debug\net7.0\Exa.Configure.Models.dll
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Domain\Exa.Domain\bin\Debug\net7.0\Exa.Configure.Models.pdb
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Domain\Exa.Domain\obj\Debug\net7.0\Exa.Domain.csproj.AssemblyReference.cache
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Domain\Exa.Domain\obj\Debug\net7.0\Exa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Domain\Exa.Domain\obj\Debug\net7.0\Exa.Domain.AssemblyInfoInputs.cache
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Domain\Exa.Domain\obj\Debug\net7.0\Exa.Domain.AssemblyInfo.cs
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Domain\Exa.Domain\obj\Debug\net7.0\Exa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Domain\Exa.Domain\obj\Debug\net7.0\Exa.Domain.csproj.CopyComplete
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Domain\Exa.Domain\obj\Debug\net7.0\Exa.Domain.dll
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Domain\Exa.Domain\obj\Debug\net7.0\refint\Exa.Domain.dll
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Domain\Exa.Domain\obj\Debug\net7.0\Exa.Domain.pdb
+C:\Users\rasko\source\repos\wb_projeler\Exa.HotChocolate.GQL\src\Domain\Exa.Domain\obj\Debug\net7.0\ref\Exa.Domain.dll
