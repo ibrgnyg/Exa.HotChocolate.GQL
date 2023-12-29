@@ -1,0 +1,1 @@
+# Exa.HotChocolate.GQL
